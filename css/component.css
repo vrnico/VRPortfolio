@@ -67,13 +67,41 @@ a:hover {
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%;
-	background: #fad77d;
+	background: white;
 }
+
+.projects {
+	color: black;
+}
+
+.projects:hover {
+	color: #f06060;
+	background-image: url('../images/Nico2.gif');
+	background-size: cover;
+}
+
+.aboutMe:hover {
+
+background-image: url('../images/Nico1.gif');
+background-size: cover;
+}
+
+.design:hover {
+	color: #10a296;
+}
+
+.contacts:hover {
+  color: black;
+	background-image: url('../images/Nico4.gif');
+	background-size: cover;
+}
+
+
 
 .bl-main > section:nth-child(3) {
 	top: 50%;
 	left: 0;
-	background: #72CCA7;
+	background: black;
 }
 
 .bl-main > section:nth-child(4) {
